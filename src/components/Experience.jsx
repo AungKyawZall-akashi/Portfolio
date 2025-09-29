@@ -34,7 +34,7 @@ const experiences = [
   {
     title: "Participant IOT Showcase",
     year: "6 Dec 2022",
-    company: "Gusto Web Design",
+    company: "IOT Showcase",
     images: [solemate1],
     details: [
       "Developed an app to control Arduino components, enabling real-time interaction and monitoring",
